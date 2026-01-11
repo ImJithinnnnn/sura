@@ -1,0 +1,24 @@
+#ch {
+    height: 100vh;
+    background: url('your-ch-image.jpg') no-repeat center center/cover;
+    color: #333;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+#ch .ch-content h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+#ch .ch-content p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+
+Your Panel Username: k5z1rs0z
+Your Panel Password: jWC5JOdcwdl
